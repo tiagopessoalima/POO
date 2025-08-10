@@ -11,8 +11,6 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 - Estruturação de código em módulos e pacotes;
 - Boas práticas e tratamento de exceções.
 
----
-
 ## 🛠️ Habilidades Desenvolvidas
 - Modelagem e implementação de **classes**, **atributos** e **métodos**;
 - Uso de **encapsulamento**, **herança** e **polimorfismo**;
@@ -20,15 +18,11 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 - Organização de código em **módulos** e **pacotes**;
 - Desenvolvimento de **projetos práticos** para problemas reais.
 
----
-
 ## 📚 Metodologia
 1. **Aulas expositivas e discussões teóricas** para fundamentar os conceitos.
 2. **Atividades práticas** com foco em codificação e análise de código.
 3. **Projetos integradores** para aplicação dos conceitos aprendidos.
 4. **Seminários** sobre boas práticas e padrões de projeto.
-
----
 
 ## 🗓️ Estrutura do Curso (20 Semanas)
 
