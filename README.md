@@ -1,9 +1,7 @@
-# 🐍 Programação Orientada a Objetos
+# Programação Orientada a Objetos
 
 Este repositório reúne **materiais, códigos e projetos** da disciplina de **Programação Orientada a Objetos (POO)**, com foco em **Python**.  
 Ao longo do curso, são abordados conceitos fundamentais, padrões de projeto e boas práticas, sempre com aplicação prática em exercícios e projetos.
-
----
 
 ## 🎯 Objetivo Geral
 Capacitar os alunos a **compreender, projetar e implementar** sistemas orientados a objetos, desenvolvendo soluções robustas e reutilizáveis por meio de:
