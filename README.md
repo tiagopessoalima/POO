@@ -1,60 +1,58 @@
 # 🐍 Programação Orientada a Objetos
 
-Este repositório contém **materiais, códigos e projetos** desenvolvidos na disciplina de **Programação Orientada a Objetos (POO)**.
+Este repositório reúne **materiais, códigos e projetos** da disciplina de **Programação Orientada a Objetos (POO)**, com foco em **Python**.  
+Ao longo do curso, são abordados conceitos fundamentais, padrões de projeto e boas práticas, sempre com aplicação prática em exercícios e projetos.
 
 ---
 
 ## 🎯 Objetivo Geral
-
-Capacitar os alunos a **compreender, projetar e implementar** conceitos fundamentais de POO, com foco em:
-
-* Criação de classes e objetos;
-* Aplicação de encapsulamento, herança e polimorfismo;
-* Utilização de padrões de design e princípios **SOLID**;
-* Boas práticas de desenvolvimento utilizando **Python**.
+Capacitar os alunos a **compreender, projetar e implementar** sistemas orientados a objetos, desenvolvendo soluções robustas e reutilizáveis por meio de:
+- Criação de classes e objetos;
+- Encapsulamento, herança e polimorfismo;
+- Princípios **SOLID** e padrões de design;
+- Estruturação de código em módulos e pacotes;
+- Boas práticas e tratamento de exceções.
 
 ---
 
 ## 🛠️ Habilidades Desenvolvidas
-
-* Definição e manipulação de **classes**, **objetos**, **atributos** e **métodos**;
-* Aplicação de **encapsulamento**, **herança** e **polimorfismo**;
-* Implementação de **padrões de design** e tratamento de exceções;
-* Estruturação de código em **módulos**, **pacotes** e **coleções personalizadas**;
-* Desenvolvimento de **projetos práticos** para problemas reais.
+- Modelagem e implementação de **classes**, **atributos** e **métodos**;
+- Uso de **encapsulamento**, **herança** e **polimorfismo**;
+- Aplicação de **padrões de design** (GoF) e princípios **SOLID**;
+- Organização de código em **módulos** e **pacotes**;
+- Desenvolvimento de **projetos práticos** para problemas reais.
 
 ---
 
 ## 📚 Metodologia
-
-1. **Aulas expositivas e discussões teóricas** – aprofundando conceitos e aplicações;
-2. **Atividades práticas** – exercícios de implementação e análise de código;
-3. **Projetos integradores** – aplicando os conceitos aprendidos em soluções reais;
-4. **Seminários** – debates e apresentações sobre boas práticas e padrões de projeto.
+1. **Aulas expositivas e discussões teóricas** para fundamentar os conceitos.
+2. **Atividades práticas** com foco em codificação e análise de código.
+3. **Projetos integradores** para aplicação dos conceitos aprendidos.
+4. **Seminários** sobre boas práticas e padrões de projeto.
 
 ---
 
 ## 🗓️ Estrutura do Curso (20 Semanas)
 
-| Semana | Tópico & Descrição                                   | Objetivos                                                                             |
-| ------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **1**  | Introdução à POO – conceitos básicos e paradigmas.   | Entender diferenças entre POO e programação procedural; identificar vantagens da POO. |
-| **2**  | Estruturas Básicas – variáveis, tipos e coleções.    | Manipular listas, tuplas e dicionários; compreender coleções em Python.               |
-| **3**  | Classes e Objetos em Python.                         | Criar classes, instanciar objetos, definir atributos e métodos.                       |
-| **4**  | Métodos e Atributos – instância, classe e estáticos. | Usar `@classmethod`, `@staticmethod` e convenções de privacidade.                     |
-| **5**  | **Prova 1**                                          | Avaliar conteúdos das semanas 1–4.                                                    |
-| **6**  | Encapsulamento.                                      | Usar `@property`, getters e setters; proteger dados.                                  |
-| **7**  | Herança.                                             | Criar hierarquias de classes e usar `super()`.                                        |
-| **8**  | **Seminário 1 – Princípios SOLID**.                  | Explicar e aplicar os cinco princípios SOLID.                                         |
-| **9**  | **Prova 2**                                          | Avaliar conteúdos das semanas 6–8.                                                    |
-| **10** | Projeto 1.                                           | Desenvolver aplicação simples integrando herança e encapsulamento.                    |
-| **11** | Polimorfismo.                                        | Implementar sobrescrita de métodos e duck typing.                                     |
-| **12** | Sobrecarga de Operadores.                            | Criar métodos mágicos como `__str__`, `__add__`, `__eq__`.                            |
-| **13** | Classes Abstratas.                                   | Usar ABCs e métodos abstratos em Python.                                              |
-| **14** | **Prova 3**                                          | Avaliar conteúdos das semanas 11–13.                                                  |
-| **15** | Coleções e Iteradores.                               | Manipular coleções built-in e criar iteradores personalizados.                        |
-| **16** | Tratamento de Exceções.                              | Implementar `try/except`, exceções customizadas e boas práticas.                      |
-| **17** | Módulos e Pacotes.                                   | Criar e organizar projetos com múltiplos arquivos.                                    |
-| **18** | **Seminário 2 – Padrões de Projeto**.                | Implementar padrões como Factory, Singleton, Strategy e Observer.                     |
-| **19** | **Prova 4**                                          | Avaliar conteúdos das semanas 15–18.                                                  |
-| **20** | Projeto 2 (Final).                                   | Integrar múltiplos conceitos em uma aplicação complexa.                               |
+| Semana | Tópico & Descrição | Objetivos | Material de Apoio |
+| ------ | ------------------ | --------- | ----------------- |
+| **1** | Introdução à POO – conceitos básicos e paradigmas | Entender paradigmas e vantagens da POO | Aula, Exercícios |
+| **2** | Estruturas Básicas – variáveis, tipos e coleções | Manipular listas, tuplas e dicionários | Aula, Exercícios |
+| **3** | Classes e Objetos em Python | Criar classes, instanciar objetos, definir atributos e métodos | Aula, Exercícios |
+| **4** | Métodos e Atributos – instância, classe e estáticos | Usar `@classmethod`, `@staticmethod` e convenções de privacidade | Aula, Exercícios |
+| **5** | **Prova 1** | Avaliar conteúdos das semanas 1–4 | Pré-teste |
+| **6** | Encapsulamento | Usar `@property`, getters e setters | Aula, Exercícios |
+| **7** | Herança | Criar hierarquias e usar `super()` | Aula, Exercícios |
+| **8** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | Orientações |
+| **9** | **Prova 2** | Avaliar conteúdos das semanas 6–8 | Pré-teste |
+| **10** | Projeto 1 | Integrar herança e encapsulamento em um sistema simples | Orientações |
+| **11** | Polimorfismo | Sobrescrita de métodos e duck typing | Aula, Exercícios |
+| **12** | Sobrecarga de Operadores | Implementar métodos mágicos (`__str__`, `__add__`, etc.) | Aula, Exercícios |
+| **13** | Classes Abstratas | Usar ABCs e métodos abstratos | Aula, Exercícios |
+| **14** | **Prova 3** | Avaliar conteúdos das semanas 11–13 | Pré-teste |
+| **15** | Coleções e Iteradores | Criar iteradores customizados | Aula, Exercícios |
+| **16** | Tratamento de Exceções | `try/except` e exceções customizadas | Aula, Exercícios |
+| **17** | Módulos e Pacotes | Estruturar código em múltiplos arquivos | Aula, Exercícios |
+| **18** | **Seminário 2 – Padrões de Projeto** | Implementar padrões criacionais e comportamentais | Orientações |
+| **19** | **Prova 4** | Avaliar conteúdos das semanas 15–18 | Pré-teste |
+| **20** | Projeto 2 (Final) | Integrar múltiplos conceitos de POO | Orientações |
