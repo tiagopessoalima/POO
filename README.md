@@ -28,7 +28,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 
 | Semana | Tópico & Descrição | Objetivos | Material de Apoio |
 | ------ | ------------------ | --------- | ----------------- |
-| **1** | Introdução à POO – conceitos básicos e paradigmas | Entender paradigmas e vantagens da POO | [Aula](Semana_01_(POO).ipynb), [Apostila](Semana_01_(POO).pdf), [Exercício](Exercício_01_(POO).pdf), [Podcast](Semana_01_(POO).mp3) |
+| **1** | Introdução à POO – conceitos básicos e paradigmas | Entender paradigmas e vantagens da POO | [Aula](Aula_01_(POO).ipynb), [Apostila](Apostila_01_(POO).pdf), [Exercício](Exercicio_01_(POO).pdf), [Podcast](Podcast_01_(POO).mp3) |
 | **2** | Estruturas Básicas – variáveis, tipos e coleções | Manipular listas, tuplas e dicionários | Aula, Exercícios |
 | **3** | Classes e Objetos em Python | Criar classes, instanciar objetos, definir atributos e métodos | Aula, Exercícios |
 | **4** | Métodos e Atributos – instância, classe e estáticos | Usar `@classmethod`, `@staticmethod` e convenções de privacidade | Aula, Exercícios |
