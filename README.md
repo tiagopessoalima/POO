@@ -31,7 +31,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **1** | Introdução à POO – conceitos básicos e paradigmas | Entender paradigmas e vantagens da POO | [Aula](Aula_01_(POO).ipynb), [Apostila](Apostila_01_(POO).pdf), [Exercício](Exercicio_01_(POO).pdf), [Podcast](Podcast_01_(POO).mp3) |
 | **2** | Fundamentos de Python para POO — sintaxe básica, funções, escopo de variáveis, mutabilidade e importação de módulos. | Garantir que todos os alunos tenham uma base uniforme de Python antes de entrar em conceitos mais avançados de POO | [Aula](Aula_02_(POO).ipynb), [Apostila](Apostila_02_(POO).pdf), [Exercício](Exercicio_02_(POO).pdf), [Podcast](Podcast_02_(POO).mp3) |
 | **3** | Classes e Objetos em Python | Criar classes, instanciar objetos, definir atributos e métodos | [Aula](Aula_03_(POO).ipynb), [Apostila](Apostila_03_(POO).pdf), [Exercício](Exercicio_03_(POO).pdf), [Podcast](Podcast_01_(POO).mp3) |
-| **4** | Exercício em Grupo | Solidificar os conceitos da Semana 3 através da aplicação prática e colaborativa. | Exercício |
+| **4** | Exercício em Grupo | Solidificar os conceitos da Semana 3 através da aplicação prática e colaborativa. |  [Exercício](Exercicio_04_(POO).pdf) |
 | **5** | **Prova 1** | Avaliar conteúdos das semanas 1–4 | Pré-teste |
 | **6** | Encapsulamento | Usar `@property`, getters e setters | Aula, Exercícios |
 | **7** | Herança | Criar hierarquias e usar `super()` | Aula, Exercícios |
