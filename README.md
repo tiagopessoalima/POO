@@ -36,7 +36,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **7** | Herança | Criar hierarquias e usar `super()` | Aula, Exercícios |
 | **8** | **Prova 2** | Avaliar conteúdos das semanas 6 e 7 | Pré-teste |
 | **9** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | [Orientações](Seminario_01_(POO).pdf) |
-| **10** | Projeto 1 | Integrar herança e encapsulamento em um sistema simples | Orientações |
+| **10** | Projeto 1 | Integrar herança e encapsulamento em um sistema simples | [Orientações](Projeto_01_(POO).pdf) |
 | **11** | Polimorfismo | Sobrescrita de métodos e duck typing | Aula, Exercícios |
 | **12** | Sobrecarga de Operadores | Implementar métodos mágicos (`__str__`, `__add__`, etc.) | Aula, Exercícios |
 | **13** | Classes Abstratas | Usar ABCs e métodos abstratos | Aula, Exercícios |
