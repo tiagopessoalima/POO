@@ -34,8 +34,8 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **5** | **Prova 1** | Avaliar conteúdos das semanas 1–4 | [Pré-teste](Pre-teste_01_(POO).pdf) |
 | **6** | Encapsulamento | Usar `@property`, getters e setters | Aula, Exercícios |
 | **7** | Herança | Criar hierarquias e usar `super()` | Aula, Exercícios |
-| **8** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | [Orientações](Seminario_01_(POO).pdf) |
-| **9** | **Prova 2** | Avaliar conteúdos das semanas 6–8 | Pré-teste |
+| **8** | **Prova 2** | Avaliar conteúdos das semanas 6–8 | Pré-teste |
+| **9** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | [Orientações](Seminario_01_(POO).pdf) |
 | **10** | Projeto 1 | Integrar herança e encapsulamento em um sistema simples | Orientações |
 | **11** | Polimorfismo | Sobrescrita de métodos e duck typing | Aula, Exercícios |
 | **12** | Sobrecarga de Operadores | Implementar métodos mágicos (`__str__`, `__add__`, etc.) | Aula, Exercícios |
