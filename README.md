@@ -32,7 +32,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **3** | Classes e Objetos em Python | Criar classes, instanciar objetos, definir atributos e métodos | [Aula](Aula_03_(POO).ipynb), [Apostila](Apostila_03_(POO).pdf), [Exercício](Exercicio_03_(POO).pdf), [Podcast](Podcast_01_(POO).mp3) |
 | **4** | Exercício em Grupo | Solidificar os conceitos da Semana 3 através da aplicação prática e colaborativa. |  [Exercício](Exercicio_04_(POO).pdf) |
 | **5** | **Prova 1** | Avaliar conteúdos das semanas 1–4 | [Pré-teste](Pre-teste_01_(POO).pdf) |
-| **6** | Encapsulamento | Usar `@property`, getters e setters | Aula, Exercícios |
+| **6** | Encapsulamento | Usar `@property`, getters e setters | [Aula](Aula_05_(POO).ipynb), Exercícios |
 | **7** | Herança | Criar hierarquias e usar `super()` | Aula, Exercícios |
 | **8** | **Prova 2** | Avaliar conteúdos das semanas 6 e 7 | Pré-teste |
 | **9** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | [Orientações](Seminario_01_(POO).pdf) |
