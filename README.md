@@ -34,7 +34,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **5** | **Prova 1** | Avaliar conteúdos das semanas 1–4 | [Pré-teste](Pre-teste_01_(POO).pdf) |
 | **6** | Encapsulamento | Usar `@property`, getters e setters | [Aula](Aula_06_(POO).ipynb), [Apostila](Apostila_06_(POO).pdf), [Exercício](Exercicio_06_(POO).pdf), [Podcast](Podcast_06_(POO).mp3)  |
 | **7** | Herança | Criar hierarquias e usar `super()` | [Aula](Aula_07_(POO).ipynb), [Apostila](Apostila_07_(POO).pdf), [Exercício](Exercicio_07_(POO).pdf), [Podcast](Podcast_07_(POO).mp3) |
-| **8** | **Prova 2** | Avaliar conteúdos das semanas 6 e 7 | Pré-teste |
+| **8** | **Prova 2** | Avaliar conteúdos das semanas 6 e 7 | [Pré-teste](Pre-teste_02_(POO).pdf) |
 | **9** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | [Orientações](Seminario_01_(POO).pdf) |
 | **10** | Projeto 1 | Integrar herança e encapsulamento em um sistema simples | [Orientações](Projeto_01_(POO).pdf) |
 | **11** | Polimorfismo | Sobrescrita de métodos e duck typing | Aula, Exercícios |
