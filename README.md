@@ -40,7 +40,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **11** | Polimorfismo | Sobrescrita de métodos, duck typing e métodos mágicos | [Aula](Aula_11_(POO).ipynb), [Apostila](Apostila_11_(POO).pdf), [Exercício](Exercicio_11_(POO).pdf), [Podcast](Podcast_11_(POO).mp3) |
 | **12** | Classes Abstratas | Usar ABCs e métodos abstratos | Aula, Exercícios |
 | **13** | Revisão |  | Aula, Exercícios |
-| **14** | **Prova 3** | Avaliar conteúdos das semanas 11–13 | Pré-teste |
+| **14** | **Prova 3** | Avaliar conteúdos das semanas 11–13 |[Pré-teste](Pre-teste_03_(POO).pdf)  |
 | **15** | Coleções e Iteradores | Criar iteradores customizados | Aula, Exercícios |
 | **16** | Tratamento de Exceções | `try/except` e exceções customizadas | Aula, Exercícios |
 | **17** | Módulos e Pacotes | Estruturar código em múltiplos arquivos | Aula, Exercícios |
