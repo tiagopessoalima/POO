@@ -38,7 +38,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **9** | **Seminário 1 – Princípios SOLID** | Aplicar os cinco princípios SOLID | [Orientações](Seminario_01_(POO).pdf) |
 | **10** | Projeto 1 | Integrar herança e encapsulamento em um sistema simples | [Orientações](Projeto_01_(POO).pdf) |
 | **11** | Polimorfismo | Sobrescrita de métodos, duck typing e métodos mágicos | [Aula](Aula_11_(POO).ipynb), [Apostila](Apostila_11_(POO).pdf), [Exercício](Exercicio_11_(POO).pdf), [Podcast](Podcast_11_(POO).mp3) |
-| **12** | Classes Abstratas | Usar ABCs e métodos abstratos | Aula, Exercícios |
+| **12** | Classes Abstratas | Usar ABCs e métodos abstratos | [Aula](Aula_12_(POO).ipynb), Exercícios |
 | **13** | Revisão |  | Aula, Exercícios |
 | **14** | **Prova 3** | Avaliar conteúdos das semanas 11–13 |[Pré-teste](Pre-teste_03_(POO).pdf)  |
 | **15** | Coleções e Iteradores | Criar iteradores customizados | Aula, Exercícios |
