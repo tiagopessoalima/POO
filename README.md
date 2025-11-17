@@ -42,7 +42,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **13** | Revisão |  | Aula, Exercícios |
 | **14** | **Prova 3** | Avaliar conteúdos das semanas 11–13 |[Pré-teste](Pre-teste_03_(POO).pdf)  |
 | **15** | Coleções  | Compreender e manipular coleções — strings, listas, tuplas, dicionários e conjuntos | [Aula](Aula_15_(POO).ipynb), Exercícios |
-| **16** | Iteradores e Iteráveis — protocolo de iteração, iter(), next(), criação de iteradores customizados | Criar iteradores próprios | [Aula](Aula_16_(POO).ipynb), Exercícios |
+| **16** | Iteradores e Iteráveis | Protocolo de iteração, iter(), next(), criação de iteradores customizados | [Aula](Aula_16_(POO).ipynb), Exercícios |
 | **17** | Módulos e Pacotes | Estruturar código em múltiplos arquivos | Aula, Exercícios |
 | **18** | **Seminário 2 – Padrões de Projeto** | Implementar padrões criacionais e comportamentais | Orientações |
 | **19** | **Prova 4** | Avaliar conteúdos das semanas 15–18 | Pré-teste |
