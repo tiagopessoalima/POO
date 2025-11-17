@@ -44,6 +44,6 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **15** | Coleções  | Compreender e manipular coleções — strings, listas, tuplas, dicionários e conjuntos | [Aula](Aula_15_(POO).ipynb), Exercícios |
 | **16** | Iteradores e Iteráveis | Protocolo de iteração, iter(), next(), criação de iteradores customizados | [Aula](Aula_16_(POO).ipynb), Exercícios |
 | **17** | Módulos, Pacotes e Tratamento de Exceções | Estruturar código em múltiplos arquivos e Tratamento de exceções | Aula, Exercícios |
-| **18** | **Prova 4** | Avaliar conteúdos das semanas 15–18 | Pré-teste |
+| **18** | **Prova 4** | Avaliar conteúdos das semanas 15–17 | Pré-teste |
 | **19** | Projeto 2 (Final) | Integrar múltiplos conceitos de POO | [Orientações](Projeto_02_(POO).pdf)  |
 | **20** | **Fechamento da Disciplina** | Apresentar resultados |  |
