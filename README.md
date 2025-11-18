@@ -41,7 +41,7 @@ Capacitar os alunos a **compreender, projetar e implementar** sistemas orientado
 | **12** | Classes Abstratas | Usar ABCs e métodos abstratos | [Aula](Aula_12_(POO).ipynb), Exercícios |
 | **13** | Revisão |  | Aula, Exercícios |
 | **14** | **Prova 3** | Avaliar conteúdos das semanas 11–13 |[Pré-teste](Pre-teste_03_(POO).pdf)  |
-| **15** | Coleções  | Compreender e manipular coleções — strings, listas, tuplas, dicionários e conjuntos | [Aula](Aula_15_(POO).ipynb), Exercícios |
+| **15** | Coleções  | Compreender e manipular coleções — strings, listas, tuplas, dicionários e conjuntos | [Aula](Aula_15_(POO).ipynb), Exercícios, [Podcast](Podcast_15_(POO).mp3) |
 | **16** | Iteradores e Iteráveis | Protocolo de iteração, iter(), next(), criação de iteradores customizados | [Aula](Aula_16_(POO).ipynb), Exercícios |
 | **17** | Módulos, Pacotes e Tratamento de Exceções | Estruturar código em múltiplos arquivos e Tratamento de exceções | Aula, Exercícios |
 | **18** | **Prova 4** | Avaliar conteúdos das semanas 15–17 | Pré-teste |
